@@ -14,6 +14,8 @@ for (var x = 0; x < 51; x++){
   }
   console.log(x);
 }
+// PARTIAL CREDIT : You are still printing the number 10 after "TEN"
+// You should print your iterator in an else statment
 
 // ### Exercise 3:
 // Prompt the user to enter a number. Prompt the user to enter another number.
@@ -24,6 +26,8 @@ var numb2 = parseInt(prompt("Enter another number bruh"));
 for (var y = numb1; y < numb2; y++){
   console.log(y);
 }
+
+// NOTE : You are only counting up to the second number not inculding 
 
 
 
